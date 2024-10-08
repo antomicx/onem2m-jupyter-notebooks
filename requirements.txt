@@ -82,7 +82,7 @@ ipykernel==6.29.5
     #   jupyter
     #   jupyter-console
     #   jupyterlab
-ipython==8.27.0
+ipython==8.12.3
     # via
     #   ipykernel
     #   ipywidgets
